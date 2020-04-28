@@ -8,4 +8,4 @@ spec:
   - port: 3030
     targetPort: 80
   selector:
-    app: hello-nginx
+    app: nginx
